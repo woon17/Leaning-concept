@@ -22,6 +22,6 @@ Basics](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTML_CSS_
 
 ### Backend
 #### Spring security
-|                        Issue                         |      keyword      |
-| :--------------------------------------------------: | :---------------: |
-| [](Java\Spring_boot\springSecurityPasswordhash.html) | `<a href...></a>` |
+|                                Issue                                |                         keyword                          |
+| :-----------------------------------------------------------------: | :------------------------------------------------------: |
+| [Password encoder](Java\Spring_boot\springSecurityPasswordhash.html) | `BCryptPasswordEncoder, BCrypt, one way transformation ` |
