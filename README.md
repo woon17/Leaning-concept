@@ -12,6 +12,7 @@ Issue faced in the first time only
 ### Frontend
 
 #### Basic html
+
 [HTML and CSS
 Basics](https//www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTML_CSS_Basics.html)
 | Issue                                                                      | keyword           |
@@ -21,6 +22,7 @@ Basics](https//www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTML_CSS_B
 
 ### Backend
 #### Spring security
+
 | Issue                                                                | keyword                                                  |
 | -------------------------------------------------------------------- | -------------------------------------------------------- |
 | [Password encoder](Java\Spring_boot\springSecurityPasswordhash.html) | `BCryptPasswordEncoder, BCrypt, One way transformation ` |
