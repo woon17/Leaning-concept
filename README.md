@@ -1,5 +1,4 @@
 # Learning
-- tjis 
 Issue faced in the first time only 
 ## Table of Contents
 
@@ -24,4 +23,4 @@ Basics](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTML_CSS_
 #### Spring security
 |                                Issue                                |                         keyword                          |
 | :-----------------------------------------------------------------: | :------------------------------------------------------: |
-| [Password encoder](Java\Spring_boot\springSecurityPasswordhash.html) | `BCryptPasswordEncoder, BCrypt, one way transformation ` |
+| [Password encoder](Java\Spring_boot\springSecurityPasswordhash.html) | `BCryptPasswordEncoder, BCrypt, One way transformation ` |
